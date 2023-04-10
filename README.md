@@ -44,5 +44,6 @@ This command allows the server to forward traffic between the client and the int
 sudo systemctl enable --now wg-quick@wg0
 ```
 This command starts the WireGuard service using the configuration file you created in step 4.
-That's it! You have now successfully installed and configured WireGuard VPN on your VPS server. You can now connect to the server from a client device using the public IP address of the server and the private key you generated in step 3.
+
+#### That's it! You have now successfully installed and configured WireGuard VPN on your VPS server. You can now connect to the server from a client device using the public IP address of the server and the private key you generated in step 3.
 
