@@ -1,4 +1,4 @@
-### Install Wireguard vpn on vps server
+### Install Wireguard Vpn on your Vps server
 
 1. Connect to your VPS server via SSH using a terminal or SSH client. You will need to have root or sudo access to the server.
 2. Update the server packages and install the necessary dependencies by running the following commands:
